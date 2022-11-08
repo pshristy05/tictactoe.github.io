@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Spotify"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tic Tac Toe"
+	}
+}
